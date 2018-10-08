@@ -16,6 +16,8 @@ the total number of pixes which counts is different.
 But the optimized point I got by the program is 
 (0.83,0.35,0.83) which not the (0.55,0.55,0.083). I don?t know the reason yet.
 average cost = 0.0027 
+
+figure this out later by changing the way calculating the cost for the images.
 %}
 
 global C;
